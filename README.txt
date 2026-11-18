@@ -14,4 +14,15 @@ One GitHub Pages deployment works on mobile, tablet and desktop.
 Mobile: compact tactical map, fixed thumb-friendly controls, collapsible mission history and smaller HUD.
 Landscape mobile: controls on right. Desktop retains the original two-column design.
 Game engine, convoy encounters, saved-game key and four save slots are unchanged.
-After uploading, refresh the page once; the new service worker cache is u-boat-v3-responsive.
+
+
+GITHUB PAGES UPDATE v4
+Extract the ZIP and upload its contents together to the existing publishing folder.
+Keep the same site address to continue existing games. After deployment, open
+the game online and reload. Once the offline files are installed, the game
+can be opened again without a network connection.
+
+The tactical chart now labels rows A–J and columns 1–10. A report of C7
+refers to the third row, seventh column.
+Loading a completed campaign opens its 1945 report and a MAIN MENU button.
+Offline files are managed separately for each installation of U-Boat.
